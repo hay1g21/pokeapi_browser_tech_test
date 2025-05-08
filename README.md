@@ -2,6 +2,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 First clone the repository
+
 Then navigate to the directory and run 'npm install'
 
 Then, run the development server:
